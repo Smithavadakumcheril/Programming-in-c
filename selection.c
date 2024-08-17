@@ -1,5 +1,4 @@
-include <stdio.h>
-
+#include <stdio.h>
 int main() {
     int i = 0, n, j, small, temp, time=0;
     time++;
