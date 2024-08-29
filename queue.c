@@ -76,7 +76,7 @@ break;
 default:
 printf("Invalid Function");
 break;
-}
+ }
 }
 }
 
